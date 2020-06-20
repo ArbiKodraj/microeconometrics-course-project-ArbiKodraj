@@ -21,11 +21,7 @@ This notebook contains my replication of the results from the following paper:
 
 <i><b> Information about replication and individual contributions: </i></b>
 
-- For the replication, I try to remain true to the original structure of the paper so readers can easily follow along and compare. All tables and figures are named and labeled as they appear in Oreopoulos. (2011).
-
-
-- The tables in my replication appear transposed compared to the original tables to suit my workflow in Python.
-
+- For the replication, I try to remain true to the original structure of the paper so readers can easily follow along and compare. All tables and figures are named and labeled as they appear in Oreopoulos (2011).
 
 - For transparency, all sections in the replication that constitute independent contributions by me and are not part of results presented (or include deviations from the methods used) in the paper are marked as extensions.
 
