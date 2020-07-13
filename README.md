@@ -18,6 +18,9 @@ Oreopoulos (2011) sent thousands of randomly manipulated resumes to employers wh
 
 ## Replication
 
+The best way to read this notebook is by downloading the it here. Alternatively, use nbviewer [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReplicationProject.ipynb/master) or 
+
+
 ## Reproducibility
 
 In order to ensure full reproducibility, I have set up a continous integration environment using [Travis CI](https://travis-ci.com) which can be checked here: [![Build Status](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.svg?branch=master)](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj)
