@@ -6,7 +6,7 @@ import statsmodels.formula.api as smf
 
 from IPython.display import display_html, HTML
 
-from auxiliary_descriptive_replication import *
+from auxiliary.auxiliary_descriptive_replication import *
 
 
 
