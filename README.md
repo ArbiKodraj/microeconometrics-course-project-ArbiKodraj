@@ -18,7 +18,7 @@ Oreopoulos (2011) sent thousands of randomly manipulated resumes to employers wh
 ---
 ## Reproducibility:
 
-In order to ensure full reproducibility of my project, I have set up a continous integration environment using [Travis CI](https://travis-ci.com) which you can check here:
+In order to ensure full reproducibility of my project, I have set up a continous integration environment using [Travis CI](https://travis-ci.com) which you can check here: [![Build Status](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.svg?branch=master)](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj)
 
 
 ---
