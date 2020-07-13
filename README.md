@@ -18,13 +18,13 @@ Oreopoulos (2011) sent thousands of randomly manipulated resumes to employers wh
 
 ## Replication
 
-The best way to access this notebook is by downloading it [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj) and open it locally via jupyter notebook. Alternatively, it can be viewed [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb). Other ways to view this notebook are binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.git/master) or nbviewer [![Nbviewer](https://nbviewer.jupyter.org/github/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb#), however these are not the preferred options, because when opening the notebook it can happen that some outputs are displayed incompletely.
+The best way to access this notebook is by downloading it [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj) and open it locally via jupyter notebook. Alternatively, it can be viewed [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb). Other ways to view this notebook are binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.git/master) or nbviewer [![nb-viewer](https://nbviewer.jupyter.org/github/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb#), however these are not the preferred options, because when opening the notebook it can happen that some outputs are displayed incompletely.
 
 
 
 ## Reproducibility
 
-In order to ensure full reproducibility, I have set up a continous integration environment using [Travis CI](https://travis-ci.com) which can be checked here: [![Build Status](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.svg?branch=master)](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj)
+In order to ensure full reproducibility, I have set up a continous integration environment using [Travis Ci](https://travis-ci.com) which can be checked here: [![Build Status](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.svg?branch=master)](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj)
 
 ## Reference
 
