@@ -1,5 +1,10 @@
 name: student_project
 
+channels:
+- defaults
+- conda-forge
+- opensourceeconomics
+
 dependencies:
 - numpy
 - pandas
@@ -8,7 +13,10 @@ dependencies:
 - seaborn
 - scipy
 - statsmodels
+- scikit-learn
 - pip
 - pip:
+  - linearmodels
+  - scikit-learn
 
 
