@@ -18,6 +18,12 @@ Oreopoulos (2011) sent thousands of randomly manipulated resumes to employers wh
 
 ## Replication
 
+In this notebook I concentrate on the essential results of the author. I follow its structure, additionally I draw on further studies to express some statements and findings. Furthermore, I strictly follow Oreopoulos procedures and apply the same methods as he does. 
+
+Some methods, such as the interactive regression with a time fixed effect, I change in favour of my replication.  The reason for this is that on the one hand the results do not change much and differ only marginally from x results and on the other hand they allow me to replicate all results completely. This is explained in more detail in the notebook. 
+Furthermore, I perform additional, own methods to check the robustness of the results. The resulting outputs are compared to the outputs of Oreopoulos. 
+Finally, I will put the empirical findings into a political context and discuss Oreopoulos's suggestions for possible policy interventions and extend them with mine.   
+
 The best way to access this notebook is by downloading it [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj) and open it locally via jupyter notebook. Alternatively, it can be viewed [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb). Other ways to view this notebook are binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.git/master) or nbviewer <a href="https://nbviewer.jupyter.org/github/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb" 
    target="_parent">
    <img align="center" 
