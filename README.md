@@ -16,9 +16,10 @@ Oreopoulos (2011) sent thousands of randomly manipulated resumes to employers wh
 
 
 ---
-Reproduction
+## Reproduction
 
-https://travis-ci.com
+In order to ensure full reproducibility of my project, I have set up a continous integration environment using ()[TravisCI] which you can check here:
+
 ---
 
 
