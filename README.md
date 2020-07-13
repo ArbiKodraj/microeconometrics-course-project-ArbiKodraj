@@ -18,14 +18,12 @@ Oreopoulos (2011) sent thousands of randomly manipulated resumes to employers wh
 
 ## Replication
 
-The best way to access this notebook is by downloading it [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj) and open it locally via jupyter notebook. Alternatively, it can be viewed [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb). Other ways to view this notebook are binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.git/master) or nbviewer <a href="https://nbviewer.jupyter.org/github/comet-ml/comet-examples/blob/master/notebooks/Comet-REST-API.ipynb" 
+The best way to access this notebook is by downloading it [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj) and open it locally via jupyter notebook. Alternatively, it can be viewed [here](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb). Other ways to view this notebook are binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.git/master) or nbviewer <a href="https://nbviewer.jupyter.org/github/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb" 
    target="_parent">
-   <img align="right" 
+   <img align="left" 
       src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
       width="109" height="20">
-</a>
-
-, however these are not the preferred options, because when opening the notebook it can happen that some outputs are displayed incompletely.
+</a>, however these are not the preferred options, because when opening the notebook it can happen that some outputs are displayed incompletely.
 
 
 
