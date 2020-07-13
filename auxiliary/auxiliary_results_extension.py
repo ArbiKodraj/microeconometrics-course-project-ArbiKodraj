@@ -16,7 +16,7 @@ from sklearn.neighbors import KNeighborsClassifier
 
 from IPython.display import display_html, HTML
 
-from auxiliary_descriptive_replication import *
+from auxiliary.auxiliary_descriptive_replication import *
 
 
 
