@@ -22,42 +22,6 @@ def display_side_by_side(*args):
         html_str+=df.to_html()
     display_html(html_str.replace('table','table style="display:inline"'),raw=True)
     
-    
-##############################################   Section 1-2  ##############################################################
-
-def unem_rate():
-    
-    time = [2015,2016,2017,2018,2019]
-    total = [5.8,6.0,5.4,4.9,4.7]
-    rec_im = [10.9,10.2,9.6,8.6,8.8]
-    form_im_1 = [8.0,7.7,6.2,5.3,5.1]
-    form_im_2 = [5.6,5.9,5.6,5.0,4.7]
-    non_im = [5.4,5.5,5.0,4.5,4.3]
-    
-    unem = pd.DataFrame(data=[total,rec_im,form_im_1,form_im_2,non_im],columns=time, 
-                        index=["Total population", "Immigrants, landed 5 or less years earlier",
-                               "Immigrants, landed more than 5 to 10 years earlier", 
-                               "Immigrants, landed more than 10 years earlier",
-                               "Born in Canada"])
-    
-    return unem
-
-
-
-def first_table():
-    
-    index = ["Unemployment rate", 
-           "Mean earnings for positive earners in labor force",
-           "Median earnings for positive earners in labor force"]
-    col = ["Non-immigrants", "Recent immigrants (0-4 years)", "Sample size"]
-    first = [0.059,0.104,127149]
-    second = [39.8,27.5,119275]
-    third = [33.0,21.0,199275]
-  
-    first_table = pd.DataFrame([first,second,third], columns=col,
-                              index = index)
-   
-    return first_table
 
 
 ##############################################   Section 3  ##############################################################
