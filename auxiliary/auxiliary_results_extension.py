@@ -24,7 +24,7 @@ from auxiliary_descriptive_replication import *
 def filled_data_set():
     
     pd.set_option('display.max_columns', None)
-    df = pd.read_stata("oreopoulos resume study replication data file.dta")
+    df = pd.read_stata("data/oreopoulos resume study replication data file.dta")
     fill_values = {'chinese': 0, 'indian': 0, "british":0, 'pakistani': 0, 'pakistani':0, "Chn_Cdn":0, "same_exp":0}
     df.fillna(value=fill_values, inplace=True)
     return df
