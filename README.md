@@ -18,7 +18,7 @@ Oreopoulos (2011) sent thousands of randomly manipulated resumes to employers wh
 
 ## Replication
 
-The best way to read this notebook is by downloading it here. Alternatively, use binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.git/master) or nbviewer 
+The best way to read this notebook is by downloading it here. Alternatively, use binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.git/master) or nbviewer [![Nbviewer](https://nbviewer.jupyter.org/github/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/ReplicationProject.ipynb#)
 
 
 
