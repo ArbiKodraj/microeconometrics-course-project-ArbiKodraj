@@ -43,6 +43,10 @@ The best way to access this notebook is by downloading it [here](https://github.
 
 In order to ensure full reproducibility, I have set up a continous integration environment using [Travis Ci](https://travis-ci.com) which can be checked here: [![Build Status](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.svg?branch=master)](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj) ![Continuous Integration](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-VincentSelz/workflows/Continuous%20Integration/badge.svg)
 
+## Course Instructor
+
+- [Philipp Eisenhauer](https://github.com/peisenha)
+
 ## Reference
 
 - <b>Christian S. Crandall and Amy Eshleman (2003)</b>. *A Justification–Suppression Model of the Expression and Experience of Prejudice*. American Psychological Association, Vol. 129, No. 3, 414–446.
