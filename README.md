@@ -64,6 +64,6 @@ In order to ensure full reproducibility, I have set up a continous integration e
 - <b>Sendhil Mullainathan (2002)</b>. *Thinking Through Categories*. Working Paper, MIT, Cambridge, MA. 
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/HumanCapitalAnalysis/template-course-project/blob/master/LICENSE)
+[![License: MIT](https://github.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj/blob/master/LICENSE)
 ---
 
