@@ -65,7 +65,3 @@ In order to ensure full reproducibility, I have set up a continous integration e
 
 ---
 
-[![License: MIT](https://github.com/HumanCapitalAnalysis/template-course-project/blob/master/LICENSE)](https://opensource.org/licenses/MIT)
-
-
-
