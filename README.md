@@ -29,6 +29,9 @@ The best way to access this notebook is by downloading it [here](https://github.
       width="109" height="20">
 </a>, however these are not the preferred options, because when opening the notebook it can happen that some outputs are displayed incompletely.
 
+> **Course Instructor:** [Philipp Eisenhauer](https://github.com/peisenha)
+
+
 ## Notebook's Structure
 
 - **1. Introduction:** There, the author's question and its political relevance will be introduced  
@@ -43,9 +46,6 @@ The best way to access this notebook is by downloading it [here](https://github.
 
 In order to ensure full reproducibility, I have set up a continous integration environment using [Travis Ci](https://travis-ci.com) which can be checked here: [![Build Status](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj.svg?branch=master)](https://travis-ci.com/ArbiKodraj/microeconometrics-course-project-ArbiKodraj) ![Continuous Integration](https://github.com/HumanCapitalAnalysis/microeconometrics-course-project-VincentSelz/workflows/Continuous%20Integration/badge.svg)
 
-## Course Instructor
-
-- [Philipp Eisenhauer](https://github.com/peisenha)
 
 ## Reference
 
