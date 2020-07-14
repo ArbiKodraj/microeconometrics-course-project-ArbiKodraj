@@ -31,13 +31,13 @@ The best way to access this notebook is by downloading it [here](https://github.
 
 ## Notebook's Structure
 
-**1. Introduction:** There, the author's question and it political relevance will be introduced  
-**2. Background:** In this section, I am going to list facts and numbers regarding the unemployment rate in Canada provided by the [Canadian Census](https://www12.statcan.gc.ca/census-recensement/index-eng.cfm) and the author itself
-**3. Theories of Job-Applicant Discrimination:** Here, I collect Oreopoulos opinion and possible explantions on job discrimination and contrast them with further opinions
-**4. Research Design:** This section deals with the design and procedure of the experiment 
-**5. Results:** There, I am going to replicate all results and extend them by further analysis and methods in order to check their robustness
-**6. Discussing Results with Recruiters:** This section shortly discusses the reactions and justifications of the staff members after the author has confronted them with the results
-**7. Conclusion:** In order to return to the research question raised at the beginning, the results will be summarised again here and their consequences will be presented and classified politically
+- **1. Introduction:** There, the author's question and it political relevance will be introduced  
+- **2. Background:** In this section, I am going to list facts and numbers regarding the unemployment rate in Canada provided by the [Canadian Census](https://www12.statcan.gc.ca/census-recensement/index-eng.cfm) and the author itself
+- **3. Theories of Job-Applicant Discrimination:** Here, I collect Oreopoulos opinion and possible explantions on job discrimination and contrast them with further opinions
+- **4. Research Design:** This section deals with the design and procedure of the experiment 
+- **5. Results:** There, I am going to replicate all results and extend them by further analysis and methods in order to check their robustness
+- **6. Discussing Results with Recruiters:** This section shortly discusses the reactions and justifications of the staff members after the author has confronted them with the results
+- **7. Conclusion:** In order to return to the research question raised at the beginning, the results will be summarised again here and their consequences will be presented and classified politically
 
 ## Reproducibility
 
