@@ -1,4 +1,4 @@
-name: student_project
+name: ReplicationProject
 
 dependencies:
 - numpy
