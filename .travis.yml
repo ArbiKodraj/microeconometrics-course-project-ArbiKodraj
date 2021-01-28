@@ -11,7 +11,7 @@ install:
   - ./utils/travis_miniconda.sh
   - PATH="$HOME/miniconda/bin:$PATH"
   - conda env create -f environment.yml
-  - source activate ReplicationProject
+  - source activate microeconometrics-course-project-ArbiKodraj
 
 script:
    # This automatically executes all notebooks (*.ipynb)
