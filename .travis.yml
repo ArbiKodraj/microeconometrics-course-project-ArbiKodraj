@@ -2,7 +2,7 @@
 language: python
 
 python:
-  - 3.9
+  - 3.7
 
 bundler_args: --retry 3
 
@@ -11,7 +11,7 @@ install:
   - ./utils/travis_miniconda.sh
   - PATH="$HOME/miniconda/bin:$PATH"
   - conda env create -f environment.yml
-  - source activate microeconometrics-course-project-ArbiKodraj
+  - source activate Project_Microeconometrics_ArbiKodraj
 
 script:
    # This automatically executes all notebooks (*.ipynb)
