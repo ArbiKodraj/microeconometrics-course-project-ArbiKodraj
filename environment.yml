@@ -1,6 +1,7 @@
 name: Project_Microeconometrics_ArbiKodraj
 
 dependencies:
+- python=3.7 
 - numpy
 - pandas
 - jupyterlab
