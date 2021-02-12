@@ -12,5 +12,5 @@ dependencies:
 - pip
 - pip:
   - linearmodels
-  - scikit-learn
+
 
